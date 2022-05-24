@@ -18891,7 +18891,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Century Gothic',sans-serif;
+  font-family: 'Didact Gothic',sans-serif;
 }
 /*end-variables font-family*/
 /*begin-variables color*/
@@ -18914,7 +18914,7 @@ h6 {
   font-family: Roboto,sans-serif !important;
 }
 .u-custom-font.u-heading-font {
-  font-family: 'Century Gothic',sans-serif !important;
+  font-family: 'Didact Gothic',sans-serif !important;
 }
 /*end-variables font*/
 /*begin-variables colors*/
@@ -30920,7 +30920,7 @@ a.u-link.u-text-hover-grey-90:hover {
         /** common-rules **/
         h1:not(.u-title)
         {
-        font-family: 'Century Gothic',sans-serif;
+        font-family: 'Didact Gothic',sans-serif;
         font-weight: 700;
         text-transform: capitalize;
         line-height: 1.1;
@@ -30931,7 +30931,7 @@ a.u-link.u-text-hover-grey-90:hover {
         }
         h2:not(.u-subtitle)
         {
-        font-family: 'Century Gothic',sans-serif;
+        font-family: 'Didact Gothic',sans-serif;
         font-weight: 700;
         text-transform: capitalize;
         line-height: 1.2;
@@ -30940,14 +30940,14 @@ a.u-link.u-text-hover-grey-90:hover {
         }
         h3
         {
-        font-family: 'Century Gothic',sans-serif;
+        font-family: 'Didact Gothic',sans-serif;
         font-weight: 700;
         text-transform: capitalize;
         line-height: 1.2;
         }
         h4
         {
-        font-family: 'Century Gothic',sans-serif;
+        font-family: 'Didact Gothic',sans-serif;
         text-transform: none;
         line-height: 1.2;
         font-weight: 400;
@@ -30955,14 +30955,14 @@ a.u-link.u-text-hover-grey-90:hover {
         }
         h5
         {
-        font-family: 'Century Gothic',sans-serif;
+        font-family: 'Didact Gothic',sans-serif;
         font-weight: 700;
         text-transform: capitalize;
         line-height: 1.2;
         }
         h6
         {
-        font-family: 'Century Gothic',sans-serif;
+        font-family: 'Didact Gothic',sans-serif;
         font-weight: 700;
         text-transform: capitalize;
         line-height: 1.2;
